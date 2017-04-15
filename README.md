@@ -1,6 +1,4 @@
 # Rent a Car
-**RENT A CAR**
-
 
 
 **Introduction:**
